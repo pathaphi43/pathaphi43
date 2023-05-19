@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### Technologies & Frameworks
 [![Springt](https://img.shields.io/badge/Springt-black?style=for-the-badge&logo=spring)](https://github.com/pathaphi43)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)](https://github.com/pathaphi43)
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)](https://github.com/pathaphi43)
 
 <details>
 <p align="center">
