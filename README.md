@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pathaphi43)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pathaphi43)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pathaphi43)
-[![DART](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=dart)](https://github.com/pathaphi43)
+[![DART](https://img.shields.io/badge/DART-black?style=for-the-badge&logo=dart)](https://github.com/pathaphi43)
 
 ### Technologies & Frameworks
-[![Springt](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=spring)](https://github.com/pathaphi43)
-[![SpringBoot](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=springboot)](https://github.com/pathaphi43)
+[![Springt](https://img.shields.io/badge/Springt-black?style=for-the-badge&logo=spring)](https://github.com/pathaphi43)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)](https://github.com/pathaphi43)
 
 <details>
 <p align="center">
